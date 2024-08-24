@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surajkr2520
 - 👀 I’m interested in problem sloving
 - 🌱 I’m currently learning cloud
-- 💞️ I’m looking to collaborate on fullstack projects
+- 💞️ I’m looking to collaborate on fullstack web developement projects
 - 📫 Reach me by mail: krsahoosuraj@gmail.com
 
 <!---
